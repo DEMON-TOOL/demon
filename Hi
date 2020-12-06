@@ -1,0 +1,4 @@
+echo -e "\e[1;31m Hi,I Love You \e[0m"
+echo -e "  \e[1;32m Do You Love Me?" 
+read "ans"
+echo -e "\e[1;21m Me Too $ans"
